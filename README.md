@@ -1,0 +1,1 @@
+# 3ve4bolunebilenSayilarinOrtalamasi
